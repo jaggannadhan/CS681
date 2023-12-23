@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "hw04b/src",
+        "hw07a/src",
+        "hw07b/src",
+        "hw08/src",
+        "hw09/src",
+        "hw10/src",
+        "hw11/src",
+        "hw12/src",
+        "hw14/src",
+        "hw15/src",
+        "hw16/src",
+        "hw17/src",
+        "hw18/src",
+        "hw13/src"
+    ]
+}
